@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "btech",
+			"path": "../../.."
+		},
+		{
+			"name": "assets",
+			"path": "H:/E-Commerce/project/assets"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
